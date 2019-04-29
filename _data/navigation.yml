@@ -16,10 +16,10 @@ main:
  #   url: /year-archive/
   
   
-  - title: "Code"
-    url: /code/
+ # - title: "Code"
+ #   url: /code/
     
   - title: "CV"
-    url: /cv/  
+    url: https://himalayajain.github.io/files/cv.pdf  
  # - title: "Guide"
  #   url: /markdown/

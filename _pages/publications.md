@@ -7,14 +7,17 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.fr/citations?user=Xl7SNlsAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-[QUEST: Quantized embedding space for transferring knowledge](https://arxiv.org/pdf/1912.01540)
+[QUEST: Quantized embedding space for transferring knowledge]
+(https://arxiv.org/pdf/1912.01540)
 Himalaya Jain, Spyros Gidaris, Nikos Komodakis, Patrick Pérez, Matthieu Cord
 
-[This dataset does not exist: training models from generated images](https://arxiv.org/pdf/1911.02888)
+[This dataset does not exist: training models from generated images]
+(https://arxiv.org/pdf/1911.02888)
 Victor Besnier, Himalaya Jain, Andrei Bursuc, Matthieu Cord, Patrick Pérez
 *ICASSP 2020*
 
-[DADA: Depth-aware Domain Adaptation in Semantic Segmentation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Vu_DADA_Depth-Aware_Domain_Adaptation_in_Semantic_Segmentation_ICCV_2019_paper.pdf)  
+[DADA: Depth-aware Domain Adaptation in Semantic Segmentation]
+(http://openaccess.thecvf.com/content_ICCV_2019/papers/Vu_DADA_Depth-Aware_Domain_Adaptation_in_Semantic_Segmentation_ICCV_2019_paper.pdf)  
 Tuan-Hung Vu, Himalaya Jain, Maxime Bucher, Matthieu Cord, Patrick Pérez  
 *ICCV 2019*
 

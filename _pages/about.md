@@ -17,5 +17,4 @@ My research interests are machine learning and computer vision, in particular I 
 * Our new work on knowledge distillation [QUEST](https://arxiv.org/abs/1912.01540) is online.
 * Our paper [DADA](https://arxiv.org/abs/1904.01886) is accepted at ICCV'19.
 * My PhD. thesis received 1st prize by [Fondation Rennes 1](https://fondation.univ-rennes1.fr/actualite/remise-des-prix-de-th%C3%A8se-fondation-rennes-1-%C3%A9dition-2018) in the field of Maths, Science and Technology of information and communication.
-* 
 * Our paper [ADVENT](https://arxiv.org/abs/1811.12833) accepted at CVPR'19 (**oral**).

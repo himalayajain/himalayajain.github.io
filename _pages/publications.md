@@ -7,8 +7,13 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.fr/citations?user=Xl7SNlsAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
+[Semantic Palette: Guiding scene generation with class proportions](https://himalayajain.github.io/publications/)  
+Guillaume Le Moing, Tuan-Hung Vu, Himalaya Jain, Matthieu Cord, Patrick Pérez  
+*CVPR 2021*
+
 [QUEST: Quantized embedding space for transferring knowledge](https://arxiv.org/pdf/1912.01540)  
-Himalaya Jain, Spyros Gidaris, Nikos Komodakis, Patrick Pérez, Matthieu Cord
+Himalaya Jain, Spyros Gidaris, Nikos Komodakis, Patrick Pérez, Matthieu Cord  
+*ECCV 2020*
 
 [This dataset does not exist: training models from generated images](https://arxiv.org/pdf/1911.02888)  
 Victor Besnier, Himalaya Jain, Andrei Bursuc, Matthieu Cord, Patrick Pérez  

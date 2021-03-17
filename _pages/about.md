@@ -10,9 +10,10 @@ redirect_from:
 
 I am a research scientist at valeo.ai. Previously, I was a PhD. student at Technicolor and Inria under supervision of Joaquin Zepeda, Patrick Pérez and Rémi Gribonval. My PhD thesis was focused on large scale image search.
 
-My research interests are machine learning and computer vision, in particular I am interested in unsupervised learning and transfer learning.
+My research interests are machine learning and computer vision, in particular, I am interested in unsupervised learning, transfer learning, and generative modeling.
 
-## News
+## Updates
+* Our work on conditional layout-scene generation ([Semantic Palette](https://himalayajain.github.io/publications/)), is accepted at CVPR'21.
 * Our work on knowledge distillation [QUEST](https://arxiv.org/abs/1912.01540) is accepted at ECCV'20.
 * Our work on methods for training with generated images [This dataset does not exist: training models from generated images](https://arxiv.org/abs/1911.02888) is accepted at ICASSP'20.
 * Our paper [DADA](https://arxiv.org/abs/1904.01886) is accepted at ICCV'19.

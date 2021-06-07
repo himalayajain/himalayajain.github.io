@@ -7,13 +7,13 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.fr/citations?user=Xl7SNlsAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-[Semantic Palette: Guiding scene generation with class proportions](https://himalayajain.github.io/publications/)  
+[Semantic Palette: Guiding scene generation with class proportions](https://arxiv.org/pdf/2106.01629)  
 Guillaume Le Moing, Tuan-Hung Vu, Himalaya Jain, Matthieu Cord, Patrick Pérez  
 *CVPR 2021*
 
 [QUEST: Quantized embedding space for transferring knowledge](https://arxiv.org/pdf/1912.01540)  
 Himalaya Jain, Spyros Gidaris, Nikos Komodakis, Patrick Pérez, Matthieu Cord  
-*ECCV 2020*
+*ECCV 2020* [[code](https://github.com/valeoai/QuEST)][[video](https://www.youtube.com/watch?v=bJyJkAhjp88)]
 
 [This dataset does not exist: training models from generated images](https://arxiv.org/pdf/1911.02888)  
 Victor Besnier, Himalaya Jain, Andrei Bursuc, Matthieu Cord, Patrick Pérez  
@@ -33,7 +33,7 @@ H. Jain, J. Zepeda, P. Pérez, R. Gribonval
 
 [Supervised structured binary codes for image search](http://openaccess.thecvf.com/content_ICCV_2017/papers/Jain_SUBIC_A_Supervised_ICCV_2017_paper.pdf)  
 H. Jain, J. Zepeda, R. Gribonval, P. Pérez  
-*ICCV 2017* [[code](https://github.com/technicolor-research/subic)]
+*ICCV 2017* [[code](https://github.com/technicolor-research/subic)] [[video](https://www.youtube.com/watch?v=NrRo-w-bPTE)]
 
 [Approximate search with quantized sparse representations](https://arxiv.org/abs/1608.03308)  
 H. Jain, P. Pérez, R. Gribonval, J. Zepeda, H. Jégou  

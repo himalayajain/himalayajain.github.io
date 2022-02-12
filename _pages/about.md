@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at valeo.ai. Previously, I was a PhD. student at Technicolor and Inria under supervision of Joaquin Zepeda, Patrick Pérez and Rémi Gribonval. My PhD thesis was focused on large scale image search.
+I am an AI researcher at [Helsing](https://helsing.ai/).
+Previously, I worked as a research scientist at valeo.ai. Prior to that, I did PhD. in computer vision at Technicolor and Inria under supervision of Joaquin Zepeda, Patrick Pérez and Rémi Gribonval. My PhD thesis was focused on large scale image search.
 
 My research interests are machine learning and computer vision, in particular, I am interested in unsupervised learning, transfer learning, and generative modeling.
 
 ## Updates
+* Our work on continual GAN training, [CSG0: Continual Urban Scene Generation with Zero Forgetting](https://arxiv.org/abs/2112.03252) is available on ArXiv.
 * Code for [QuEST](https://arxiv.org/abs/1912.01540) is available at [valeoai/QuEST](https://github.com/valeoai/QuEST).
 * Our work on conditional layout-scene generation ([Semantic Palette](https://himalayajain.github.io/publications/)), is accepted at CVPR'21.
 * Our paper on knowledge distillation [QuEST](https://arxiv.org/abs/1912.01540) is accepted at ECCV'20.

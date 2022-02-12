@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Himalaya Jain"
   avatar           : "himalaya.jpg"
-  bio              : "Research Scientist at Valeo.ai"
+  bio              : "AI Researcher at Helsing"
   location         : "Paris"
   employer         :
   googlescholar    : "https://scholar.google.fr/citations?user=Xl7SNlsAAAAJ&hl=en"
-  email            : "himalaya.jain@valeo.com"
+  email            : "first_name.last_name@helsing.ai"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

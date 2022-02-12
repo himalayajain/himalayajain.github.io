@@ -7,6 +7,9 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.fr/citations?user=Xl7SNlsAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
+[CSG0: Continual Urban Scene Generation with Zero Forgetting](https://arxiv.org/abs/2112.03252)  
+Himalaya Jain, Tuan-Hung Vu, Patrick Pérez, Matthieu Cord 
+
 [Semantic Palette: Guiding scene generation with class proportions](https://arxiv.org/pdf/2106.01629)  
 Guillaume Le Moing, Tuan-Hung Vu, Himalaya Jain, Matthieu Cord, Patrick Pérez  
 *CVPR 2021*

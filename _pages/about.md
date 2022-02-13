@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am an AI researcher at [Helsing](https://helsing.ai/).
-Previously, I worked as a research scientist at [valeo.ai](valeo.ai). Prior to that, I did PhD. in computer vision at Technicolor and Inria under supervision of Joaquin Zepeda, Patrick Pérez and Rémi Gribonval. My PhD thesis was focused on large scale image search.
+Previously, I worked as a research scientist at [valeo.ai](https://www.valeo.com/en/valeo-ai/). Prior to that, I did PhD. in computer vision at Technicolor and Inria under supervision of Joaquin Zepeda, Patrick Pérez and Rémi Gribonval. My PhD thesis was focused on large scale image search.
 
 My research interests are machine learning and computer vision, in particular, I am interested in unsupervised learning, transfer learning, and generative modeling.
 
